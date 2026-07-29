@@ -15,6 +15,7 @@ Performed 13 SQL analyses covering marketing, customer, product, device, and fun
 Built an interactive Tableau dashboard with 4 KPI cards to monitor acquisition, purchase revenue, customer behavior, product performance, and conversion metrics.
 
 🛠️ Tools
+
 SQL
 Google BigQuery
 Tableau
