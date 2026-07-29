@@ -39,14 +39,6 @@ Prioritize investment in high-performing acquisition channels.
 Promote top-performing products.
 Continuously monitor KPIs through the Tableau dashboard.
 
-📂 Repository Structure
-
-Google-Merchandise-Store-Analysis/
-│── SQL/
-│── Tableau/
-│── Images/
-└── README.md
-
 🚀 Skills Demonstrated
 
 SQL • Google BigQuery • Tableau • Data Cleaning • Data Validation • Marketing Analytics • Customer Analytics • Product Analytics • Funnel Analysis • Dashboarding • KPI Reporting • Data Storytelling • Business Problem Solving
