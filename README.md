@@ -1,4 +1,4 @@
-🛍️ Google Merchandise E-commerce Store Analysis
+🛍️ Google Merchandise Store Analysis
 
 📌 Project Objective
 
